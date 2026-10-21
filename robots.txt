@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fencinghamiltonpros.co.nz/sitemap.xml
